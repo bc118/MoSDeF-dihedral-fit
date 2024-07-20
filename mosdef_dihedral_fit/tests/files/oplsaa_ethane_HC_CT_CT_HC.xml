@@ -5,7 +5,7 @@
 --> 
 <ForceField name="OPLS-AA-ethane" version="0.0.0" combining_rule="geometric">
 
- <AtomTypes>
+ <AtomTypes> 
   <Type name="opls_135" class="CT" element="C" mass="12.01100" def="[C;X4](C)(H)(H)H" desc="alkane CH3" doi="10.1021/ja9621760"/>
   <Type name="opls_140" class="HC" element="H" mass="1.00800"  def="H[C;X4]" desc="alkane H" doi="10.1021/ja9621760"/>
  </AtomTypes>
