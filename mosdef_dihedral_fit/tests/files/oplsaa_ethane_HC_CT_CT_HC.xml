@@ -2,7 +2,7 @@
      Parameters for atomtypes in this XML file  
      are imported from the gromacs atomtypes file at
      https://github.com/gromacs/gromacs/blob/aa66efd3179a671aace62b827c54aadc3d89c1ee/share/top/oplsaa.ff/atomtypes.atp
--->
+--> 
 <ForceField name="OPLS-AA-ethane" version="0.0.0" combining_rule="geometric">
 
  <AtomTypes>
